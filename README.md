@@ -1,4 +1,6 @@
-# Serena
+# Pick you up
+
+Forked from https://github.com/lynxplay/serena
 
 A hoggyback-like plugin for spigot.
 
